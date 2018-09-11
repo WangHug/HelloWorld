@@ -2,7 +2,9 @@
   <div id="app">
     <h3>{{msg}}</h3>
     <p>Test</p>
-    <input type="text" v-model="msg">
+    <label>
+      <input type="text" v-model="msg">
+    </label>
     <firstcomponent></firstcomponent>
     <secondcomponent></secondcomponent>
     <div id="leftmenu">
