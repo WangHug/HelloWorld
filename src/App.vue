@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h3>{{msg}}</h3>
-    <p>Test</p>
+    <p>Test1</p>
     <label>
       <input type="text" v-model="msg">
     </label>
