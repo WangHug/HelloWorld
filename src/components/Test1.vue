@@ -1,5 +1,4 @@
 <template>
-{{msg}}
 </template>
 
 <script>export default {
