@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h3>{{msg}}</h3>
+    <p>Test</p>
     <input type="text" v-model="msg">
     <firstcomponent></firstcomponent>
     <secondcomponent></secondcomponent>
